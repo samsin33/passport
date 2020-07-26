@@ -50,6 +50,9 @@
         }
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "master-dev"
+        },
         "laravel": {
             "providers": [
                 "Samsin33\\Passport\\PassportServiceProvider"
