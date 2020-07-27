@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Laravel Passport is an OAuth2 server and API authentication package with mongodb that is simple and enjoyable to use.
+Passport package for laravel. OAuth2 server and API authentication package compatible with laravel version 6 and mongodb.
 
 ## Installation
 
