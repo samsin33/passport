@@ -37,12 +37,6 @@ class PassportServiceProvider extends ServiceProvider
         $this->deleteCookieOnLogout();
 
         if ($this->app->runningInConsole()) {
-            $this->registerMigrations();
-
-            $this->publishes([
-                __DIR__.'/../database/migrations' => database_path('migrations'),
-            ], 'passport-migrations');
-
             $this->publishes([
                 __DIR__.'/../resources/views' => base_path('resources/views/vendor/passport'),
             ], 'passport-views');
