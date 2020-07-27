@@ -6,11 +6,17 @@ Laravel Passport is an OAuth2 server and API authentication package with mongodb
 ## Installation
 
 First install jenssegers/mongodb package.
-composer require jenssegers/mongodb
+
+```bash
+$ composer require jenssegers/mongodb
+```
 
 then install samsin33/passport
 
-composer require samsin33/passport
+```bash
+$ composer require samsin33/passport
+```
+
 
 ## Official Documentation
 
