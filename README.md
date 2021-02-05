@@ -9,6 +9,7 @@ Laravel  | Package
 :---------|:----------
 6.x    | 1.0.x
 7.x    | 2.0.x
+8.x    | 3.0.x
 
 
 ## Installation
