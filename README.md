@@ -1,7 +1,15 @@
 
 ## Introduction
 
-Passport package for laravel. OAuth2 server and API authentication package compatible with laravel version 6 and mongodb.
+Passport package for laravel. OAuth2 server and API authentication package compatible with laravel and mongodb.
+
+### Laravel Compatibility version
+
+Laravel  | Package
+:---------|:----------
+6.x    | 1.0.x
+7.x    | 2.0.x
+
 
 ## Installation
 Just install samsin33/passport package with composer.
